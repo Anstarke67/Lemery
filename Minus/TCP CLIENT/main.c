@@ -16,7 +16,7 @@
 
 #define BUFF_SIZE 1024
 
-#define SERVER "127.0.0.1"
+define SERVER "141.94.20.232"
 
 int main()
 
