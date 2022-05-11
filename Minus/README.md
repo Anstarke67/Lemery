@@ -1,1 +1,1 @@
-Je metterai ici toutes les informations concernant Minus.
+Je mettrai ici toutes les informations concernant Minus.
